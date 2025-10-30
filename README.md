@@ -1,8 +1,8 @@
-🧠 Job Scheduling System
+Job Scheduling System
 
 The Job Scheduling System is an implementation of the Greedy Algorithm designed to schedule jobs efficiently based on their profit and deadline. This project aims to maximize total profit by selecting the most optimal job sequence within a limited time frame. It demonstrates the practical use of Advanced Data Structures and Algorithms (DSA) for solving real-world optimization problems.
 
-🚀 Features
+Features
 
 Implements Greedy Algorithm for optimal job selection.
 
@@ -14,7 +14,7 @@ Time-efficient and easy-to-understand code structure.
 
 Useful for students, developers, and researchers learning algorithm optimization.
 
-⚙️ Technologies Used
+Technologies Used
 
 Programming Language: Java (or Python/C++)
 
@@ -22,7 +22,7 @@ Algorithm: Greedy Algorithm
 
 Data Structures: Arrays, Sorting, Priority Queue
 
-💡 How It Works
+How It Works
 
 Input job details (Job ID, Deadline, Profit).
 
@@ -32,7 +32,7 @@ Assign each job to the latest available time slot before its deadline.
 
 Display the final job sequence and total profit achieved.
 
-📊 Example
+Example
 Job	Deadline	Profit
 A	2	100
 B	1	19
@@ -44,7 +44,7 @@ Output:
 Scheduled Jobs → A, C, E
 Maximum Profit: 142
 
-⏱️ Time Complexity
+Time Complexity
 
 Sorting: O(n log n)
 
@@ -52,7 +52,7 @@ Scheduling: O(n)
 
 Overall: O(n log n)
 
-📚 Applications
+Applications
 
 CPU and process scheduling in operating systems
 
